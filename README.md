@@ -1,2 +1,2 @@
 # Projetos-HTML-e-CSS
-Repositório dedicado aos projetos feitos em HTML &amp; CSS
+Repositório dedicado aos 19 projetos feitos em HTML e CSS
